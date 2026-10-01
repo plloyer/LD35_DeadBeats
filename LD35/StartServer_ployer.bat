@@ -1,0 +1,1 @@
+start C:\Users\ploye\workspace\UnrealEngine\Engine\Binaries\Win64\UE4Editor.exe C:\Users\ploye\workspace\GameJam\LudumDare35\LD35\LD35.uproject ployer?game=/Game/Blueprints/BP_LD35GameMode.BP_LD35GameMode_C -server -debug -log -nosteam

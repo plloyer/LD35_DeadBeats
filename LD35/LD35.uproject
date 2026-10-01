@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{ECC23A54-4E40-36C9-28D5-96A114A2DD14}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "LD35",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"AIModule",
+				"CoreUObject"
+			]
+		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor",
+		"MacNoEditor"
+	]
+}

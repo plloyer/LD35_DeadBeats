@@ -1,0 +1,13 @@
+// Copyright 1998-2016 Epic Games, Inc. All Rights Reserved.
+
+#include "LD35.h"
+
+
+IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, LD35, "LD35" );
+
+DEFINE_LOG_CATEGORY(LogLD35)
+DEFINE_LOG_CATEGORY(LogCapturePoint);
+DEFINE_LOG_CATEGORY(LogLD35PlayerController);
+DEFINE_LOG_CATEGORY(LogLD35Character);
+DEFINE_LOG_CATEGORY(LogLD35GameMode);
+DEFINE_LOG_CATEGORY(LogLD35Projectile);

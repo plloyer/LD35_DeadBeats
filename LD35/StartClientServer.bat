@@ -1,0 +1,2 @@
+start StartClient.bat
+start StartServer_MainScene.bat

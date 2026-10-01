@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<SettableOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SerialisableColours>
+    <SerialisableColour LocalColour="-1" />
+    <SerialisableColour LocalColour="-1" />
+    <SerialisableColour LocalColour="-1" />
+    <SerialisableColour LocalColour="-1" />
+    <SerialisableColour LocalColour="-5658199" />
+    <SerialisableColour LocalColour="-5658199" />
+    <SerialisableColour LocalColour="-5658199" />
+    <SerialisableColour LocalColour="-2894893" />
+    <SerialisableColour LocalColour="-1" />
+    <SerialisableColour LocalColour="-7667712" />
+    <SerialisableColour LocalColour="-7667712" />
+    <SerialisableColour LocalColour="-2987746" />
+    <SerialisableColour LocalColour="-2987746" />
+    <SerialisableColour LocalColour="-16777077" />
+    <SerialisableColour LocalColour="-16777077" />
+    <SerialisableColour LocalColour="-16777077" />
+    <SerialisableColour LocalColour="-16777077" />
+    <SerialisableColour LocalColour="-16777077" />
+    <SerialisableColour LocalColour="-16777077" />
+    <SerialisableColour LocalColour="-7278960" />
+    <SerialisableColour LocalColour="-16744448" />
+    <SerialisableColour LocalColour="-16711681" />
+    <SerialisableColour LocalColour="-8388480" />
+    <SerialisableColour LocalColour="-16744448" />
+    <SerialisableColour LocalColour="-16777216" />
+    <SerialisableColour LocalColour="-16777216" />
+  </SerialisableColours>
+  <AllowedRemoteAgentNames>*</AllowedRemoteAgentNames>
+  <AllowedRemoteAgentGroup>Default</AllowedRemoteAgentGroup>
+  <CoordinatorRemotingHost>ployer-pc</CoordinatorRemotingHost>
+  <CacheFolder>SwarmCache</CacheFolder>
+  <MaximumJobsToKeep>5</MaximumJobsToKeep>
+  <BringToFront>false</BringToFront>
+  <OptionsVersion>15</OptionsVersion>
+  <WindowLocation>
+    <X>706</X>
+    <Y>111</Y>
+  </WindowLocation>
+  <WindowSize>
+    <Width>913</Width>
+    <Height>768</Height>
+  </WindowSize>
+  <AgentTabIndex>2</AgentTabIndex>
+  <VisualiserZoomLevel>4</VisualiserZoomLevel>
+</SettableOptions>
